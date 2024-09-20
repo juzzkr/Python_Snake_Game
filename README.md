@@ -16,6 +16,6 @@ A classic Snake game developed from scratch using Python and the Turtle graphics
 To run the game locally, clone the repository and execute the `snake_game.py` file:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-python snake_game.py
+git clone https://github.com/juzzkr/Python_Snake_Game.git
+cd Python_Snake_Game
+python main.py
